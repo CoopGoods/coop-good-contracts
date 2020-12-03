@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/abdelhamidbakhta/coop-good-contracts/issues"
   },
-  "homepage": "https://github.com/abdelhamidbakhta/coop-good-contracts#readme"
+  "homepage": "https://github.com/abdelhamidbakhta/coop-good-contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0"
+  }
 }
