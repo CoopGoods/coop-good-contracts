@@ -1,6 +1,8 @@
 {
   "manifestVersion": "2.2",
-  "contracts": {},
+  "contracts": {
+    "DemurrageableToken": "DemurrageableToken"
+  },
   "dependencies": {},
   "name": "coop-good-contracts",
   "version": "0.0.1",
@@ -15,7 +17,7 @@
       "enabled": false
     },
     "manager": "openzeppelin",
-    "solcVersion": "0.5.17",
+    "solcVersion": "0.6.0",
     "artifactsDir": "build/contracts",
     "contractsDir": "contracts"
   },
